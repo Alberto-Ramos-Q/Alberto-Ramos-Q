@@ -12,7 +12,8 @@ reproducibles de la SBS y el BCRP, tableros del sistema financiero y análisis d
 | Proyecto | Qué es |
 |---|---|
 | [**datos-financieros-peru**](https://github.com/Alberto-Ramos-Q/datos-financieros-peru) | Descarga, limpieza y tablas del Boletín Estadístico de la SBS y de BCRPData, listas para usar con pandas |
-| [**Tablero de indicadores del sistema financiero**](https://claude.ai/artifact/RpcG5c5WpCXR6GU5Sa3Kjv) | Solvencia, calidad de cartera, rentabilidad, liquidez y clasificaciones de riesgo de 71 entidades, con datos de la SBS |\n| [**10 tableros más**](https://github.com/Alberto-Ramos-Q/datos-financieros-peru#1-ver-los-tableros) | Morosidad, solvencia, rentabilidad, liquidez, tasas activas, crédito por departamento y estados financieros (SBS); reservas internacionales, inflación y transmisión de la política monetaria (BCRP) |
+| [**Tablero de indicadores del sistema financiero**](https://claude.ai/artifact/RpcG5c5WpCXR6GU5Sa3Kjv) | Solvencia, calidad de cartera, rentabilidad, liquidez y clasificaciones de riesgo de 71 entidades, con datos de la SBS |
+| [**10 tableros más**](https://github.com/Alberto-Ramos-Q/datos-financieros-peru#1-ver-los-tableros) | Morosidad, solvencia, rentabilidad, liquidez, tasas activas, crédito por departamento y estados financieros (SBS); reservas internacionales, inflación y transmisión de la política monetaria (BCRP) |
 
 ## Con qué trabajo
 

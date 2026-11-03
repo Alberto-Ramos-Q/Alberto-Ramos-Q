@@ -14,6 +14,8 @@ el BCRP, limpios y listos para usar con pandas, con el código para reproducirlo
 
 ## Tableros
 
+**Portada con los 11 tableros: [alberto-ramos-q.github.io/datos-financieros-peru](https://alberto-ramos-q.github.io/datos-financieros-peru/)**
+
 [![Tablero de indicadores del sistema financiero](https://raw.githubusercontent.com/Alberto-Ramos-Q/datos-financieros-peru/main/img/tablero_indicadores.png)](https://claude.ai/artifact/RpcG5c5WpCXR6GU5Sa3Kjv)
 
 **Sistema financiero (SBS):**

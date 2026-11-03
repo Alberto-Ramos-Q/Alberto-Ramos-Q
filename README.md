@@ -7,13 +7,29 @@ cartera empieza a deteriorarse.
 Aquí comparto, con **datos públicos** y código abierto, lo que construyo fuera del trabajo: descargas
 reproducibles de la SBS y el BCRP, tableros del sistema financiero y análisis de riesgo.
 
-## Proyectos
+## Datos y código
 
-| Proyecto | Qué es |
-|---|---|
-| [**datos-financieros-peru**](https://github.com/Alberto-Ramos-Q/datos-financieros-peru) | Descarga, limpieza y tablas del Boletín Estadístico de la SBS y de BCRPData, listas para usar con pandas |
-| [**Tablero de indicadores del sistema financiero**](https://claude.ai/artifact/RpcG5c5WpCXR6GU5Sa3Kjv) | Solvencia, calidad de cartera, rentabilidad, liquidez y clasificaciones de riesgo de 71 entidades, con datos de la SBS |
-| [**10 tableros más**](https://github.com/Alberto-Ramos-Q/datos-financieros-peru#1-ver-los-tableros) | Morosidad, solvencia, rentabilidad, liquidez, tasas activas, crédito por departamento y estados financieros (SBS); reservas internacionales, inflación y transmisión de la política monetaria (BCRP) |
+**[datos-financieros-peru](https://github.com/Alberto-Ramos-Q/datos-financieros-peru)**: datos públicos de la SBS y
+el BCRP, limpios y listos para usar con pandas, con el código para reproducirlos desde la fuente oficial.
+
+## Tableros
+
+[![Tablero de indicadores del sistema financiero](https://raw.githubusercontent.com/Alberto-Ramos-Q/datos-financieros-peru/main/img/tablero_indicadores.png)](https://claude.ai/artifact/RpcG5c5WpCXR6GU5Sa3Kjv)
+
+**Sistema financiero (SBS):**
+[Indicadores](https://claude.ai/artifact/RpcG5c5WpCXR6GU5Sa3Kjv) ·
+[Morosidad](https://claude.ai/artifact/PPHFdmX2ewtASRK5NBCKtJ) ·
+[Solvencia](https://claude.ai/artifact/Wgh9bQ9743msqWJYiJyXkh) ·
+[Rentabilidad](https://claude.ai/artifact/8uLaNXUKjjGpVZA6GFVDt8) ·
+[Liquidez](https://claude.ai/artifact/UDrKKLp8y6dbsm662HL5nx) ·
+[Tasas activas](https://claude.ai/artifact/1qMDzGVELB7cUY7ynZg6xC) ·
+[Crédito por departamento](https://claude.ai/artifact/BZcFnUBFmQD8yNq4dRTJKN) ·
+[Estados financieros](https://claude.ai/artifact/U83h9yYdcUvwwQyU2dEsBJ)
+
+**Macroeconomía (BCRP):**
+[Reservas internacionales](https://claude.ai/artifact/SZvCtanbmzDDNEaAQUDrZD) ·
+[Inflación](https://claude.ai/artifact/VJnqVL64dBJqQ5P4GuwtE3) ·
+[Transmisión de la política monetaria](https://claude.ai/artifact/BibvFC8kvmrnD8qGhXPhUc)
 
 ## Con qué trabajo
 

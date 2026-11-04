@@ -5,18 +5,20 @@ Me interesan la banca, la regulación de la SBS y los indicadores que dicen a ti
 cartera empieza a deteriorarse.
 
 Aquí comparto, con **datos públicos** y código abierto, lo que construyo fuera del trabajo: descargas
-reproducibles de la SBS y el BCRP, tableros del sistema financiero y análisis de riesgo.
+reproducibles de la SBS, el BCRP, el INEI y el MEF, tableros del sistema financiero, la macroeconomía, las finanzas
+públicas y la pobreza, y análisis de riesgo.
 
 ## Datos y código
 
-**[datos-financieros-peru](https://github.com/Alberto-Ramos-Q/datos-financieros-peru)**: datos públicos de la SBS y
-el BCRP, limpios y listos para usar con pandas, con el código para reproducirlos desde la fuente oficial.
+**[datos-financieros-peru](https://github.com/Alberto-Ramos-Q/datos-financieros-peru)**: datos públicos de la SBS,
+el BCRP, el INEI, el MEF y otras fuentes oficiales, limpios y listos para usar con pandas, con el código para
+reproducirlos desde la fuente oficial.
 
 ## Tableros
 
-**Portada con los 11 tableros: [alberto-ramos-q.github.io/datos-financieros-peru](https://alberto-ramos-q.github.io/datos-financieros-peru/)**
+**Portada con los 14 tableros: [alberto-ramos-q.github.io/datos-financieros-peru](https://alberto-ramos-q.github.io/datos-financieros-peru/)**
 
-[![Portada con los 11 tableros](https://raw.githubusercontent.com/Alberto-Ramos-Q/datos-financieros-peru/main/img/portada_tableros.png)](https://alberto-ramos-q.github.io/datos-financieros-peru/)
+[![Portada con los 14 tableros](https://raw.githubusercontent.com/Alberto-Ramos-Q/datos-financieros-peru/main/img/portada_tableros.png)](https://alberto-ramos-q.github.io/datos-financieros-peru/)
 
 **Sistema financiero (SBS):**
 [Indicadores](https://claude.ai/artifact/RpcG5c5WpCXR6GU5Sa3Kjv) ·
@@ -26,12 +28,17 @@ el BCRP, limpios y listos para usar con pandas, con el código para reproducirlo
 [Liquidez](https://claude.ai/artifact/UDrKKLp8y6dbsm662HL5nx) ·
 [Tasas activas](https://claude.ai/artifact/1qMDzGVELB7cUY7ynZg6xC) ·
 [Crédito por departamento](https://claude.ai/artifact/BZcFnUBFmQD8yNq4dRTJKN) ·
-[Estados financieros](https://claude.ai/artifact/U83h9yYdcUvwwQyU2dEsBJ)
+[Estados financieros](https://claude.ai/artifact/U83h9yYdcUvwwQyU2dEsBJ) ·
+[Concentración y alcance](https://claude.ai/artifact/YcTzxb4ejH9Wmtku23U298)
 
-**Macroeconomía (BCRP):**
+**Macroeconomía y finanzas públicas (BCRP y MEF):**
 [Reservas internacionales](https://claude.ai/artifact/SZvCtanbmzDDNEaAQUDrZD) ·
 [Inflación](https://claude.ai/artifact/VJnqVL64dBJqQ5P4GuwtE3) ·
-[Transmisión de la política monetaria](https://claude.ai/artifact/BibvFC8kvmrnD8qGhXPhUc)
+[Transmisión de la política monetaria](https://claude.ai/artifact/BibvFC8kvmrnD8qGhXPhUc) ·
+[Finanzas públicas](https://claude.ai/artifact/35mEqSRBxkgDCobSBXrQee)
+
+**Sociedad (INEI):**
+[Pobreza por departamento](https://claude.ai/artifact/RG2JYt7DCt4APFmY5GWF6o)
 
 ## Con qué trabajo
 

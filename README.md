@@ -16,9 +16,9 @@ reproducirlos desde la fuente oficial.
 
 ## Tableros
 
-**Portada con los 14 tableros: [alberto-ramos-q.github.io/datos-financieros-peru](https://alberto-ramos-q.github.io/datos-financieros-peru/)**
+**Portada con los 17 tableros: [alberto-ramos-q.github.io/datos-financieros-peru](https://alberto-ramos-q.github.io/datos-financieros-peru/)**
 
-[![Portada con los 14 tableros](https://raw.githubusercontent.com/Alberto-Ramos-Q/datos-financieros-peru/main/img/portada_tableros.png)](https://alberto-ramos-q.github.io/datos-financieros-peru/)
+[![Portada con los 17 tableros](https://raw.githubusercontent.com/Alberto-Ramos-Q/datos-financieros-peru/main/img/portada_tableros.png)](https://alberto-ramos-q.github.io/datos-financieros-peru/)
 
 **Sistema financiero (SBS):**
 [Indicadores](https://claude.ai/artifact/RpcG5c5WpCXR6GU5Sa3Kjv) ·
@@ -29,13 +29,16 @@ reproducirlos desde la fuente oficial.
 [Tasas activas](https://claude.ai/artifact/1qMDzGVELB7cUY7ynZg6xC) ·
 [Crédito por departamento](https://claude.ai/artifact/BZcFnUBFmQD8yNq4dRTJKN) ·
 [Estados financieros](https://claude.ai/artifact/U83h9yYdcUvwwQyU2dEsBJ) ·
-[Concentración y alcance](https://claude.ai/artifact/YcTzxb4ejH9Wmtku23U298)
+[Concentración y alcance](https://claude.ai/artifact/YcTzxb4ejH9Wmtku23U298) ·
+[Las AFP en datos](https://claude.ai/artifact/MVrJPDFEhaCCZcStmS9WLW)
 
 **Macroeconomía y finanzas públicas (BCRP y MEF):**
 [Reservas internacionales](https://claude.ai/artifact/SZvCtanbmzDDNEaAQUDrZD) ·
 [Inflación](https://claude.ai/artifact/VJnqVL64dBJqQ5P4GuwtE3) ·
 [Transmisión de la política monetaria](https://claude.ai/artifact/BibvFC8kvmrnD8qGhXPhUc) ·
-[Finanzas públicas](https://claude.ai/artifact/35mEqSRBxkgDCobSBXrQee)
+[PBI del Perú](https://claude.ai/artifact/FEzPx1uETy1GufSNk8v4zZ) ·
+[Finanzas públicas](https://claude.ai/artifact/35mEqSRBxkgDCobSBXrQee) ·
+[El Perú frente a la región](https://claude.ai/artifact/W1bjbzArxP2LzBaZL24gfU)
 
 **Sociedad (INEI):**
 [Pobreza por departamento](https://claude.ai/artifact/RG2JYt7DCt4APFmY5GWF6o)

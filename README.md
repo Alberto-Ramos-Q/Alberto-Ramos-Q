@@ -6,7 +6,7 @@ cartera empieza a deteriorarse.
 
 Aquí comparto, con **datos públicos** y código abierto, lo que construyo fuera del trabajo: descargas
 reproducibles de la SBS, el BCRP, el INEI y el MEF, tableros del sistema financiero, la macroeconomía, las finanzas
-públicas y la pobreza, y análisis de riesgo.
+públicas, el empleo y la pobreza, y análisis de riesgo.
 
 ## Datos y código
 
@@ -16,9 +16,9 @@ reproducirlos desde la fuente oficial.
 
 ## Tableros
 
-**Portada con los 17 tableros: [alberto-ramos-q.github.io/datos-financieros-peru](https://alberto-ramos-q.github.io/datos-financieros-peru/)**
+**Portada con los 18 tableros: [alberto-ramos-q.github.io/datos-financieros-peru](https://alberto-ramos-q.github.io/datos-financieros-peru/)**
 
-[![Portada con los 17 tableros](https://raw.githubusercontent.com/Alberto-Ramos-Q/datos-financieros-peru/main/img/portada_tableros.png)](https://alberto-ramos-q.github.io/datos-financieros-peru/)
+[![Portada con los 18 tableros](https://raw.githubusercontent.com/Alberto-Ramos-Q/datos-financieros-peru/main/img/portada_tableros.png)](https://alberto-ramos-q.github.io/datos-financieros-peru/)
 
 **Sistema financiero (SBS):**
 [Indicadores](https://claude.ai/artifact/RpcG5c5WpCXR6GU5Sa3Kjv) ·
@@ -40,8 +40,9 @@ reproducirlos desde la fuente oficial.
 [Finanzas públicas](https://claude.ai/artifact/35mEqSRBxkgDCobSBXrQee) ·
 [El Perú frente a la región](https://claude.ai/artifact/W1bjbzArxP2LzBaZL24gfU)
 
-**Sociedad (INEI):**
-[Pobreza por departamento](https://claude.ai/artifact/RG2JYt7DCt4APFmY5GWF6o)
+**Sociedad y empleo (INEI y fuentes oficiales de la región):**
+[Pobreza por departamento](https://claude.ai/artifact/RG2JYt7DCt4APFmY5GWF6o) ·
+[El empleo en la región](https://claude.ai/artifact/DgKbUH7UbYGAYpC9RgBxUR)
 
 ## Con qué trabajo
 
